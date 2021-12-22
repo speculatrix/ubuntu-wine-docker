@@ -6,6 +6,8 @@ run the BUILDME.sh script and give it your username
 
 edit the Dockerfile.tpl if you want to add more packages then run the BUILDME.sh again.
 
+then run it with ./RUNCONTAINER.sh and point your browser at http://127.0.0.1:6080/
+
 
 ---
 
